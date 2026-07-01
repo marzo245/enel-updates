@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.0.32",
+  "versionCode": 35,
+  "versionName": "1.0.35",
   "apkUrl": "https://github.com/marzo245/enel-updates/releases/latest/download/enelConexiones-release.apk",
-  "cambios": "Actualizacion in-app: chequeo de version, descarga e instalacion de APK"
+  "cambios": "Feat: busqueda general de proyectos por tokens sobre todos los campos"
 }
